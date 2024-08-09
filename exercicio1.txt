@@ -1,0 +1,12 @@
+Nathalia Minosis, Quésia Monteiro, Vitória Faller.
+Definição de Requisitos:
+•	Requisitos Funcionais:
+o	O sistema deve permitir que uma pessoa se cadastre com nome e senha.
+o	O sistema deve permitir que o profissional  da área da saúde se cadastre com nome, senha, sexo, idade e sua especialidade. 
+o	O sistema deve permitir que o usuário descreva a doença/transtorno que possui, idade, sexo.
+o	O usuário registrado pode avaliar o profissional na área da saúde, assim evitando repetir caso não gostou.
+o	Quem pode iniciar o chat sempre é o usuário com transtorno/doença.
+o	Sistema de chat: O sistema deve permitir que o profissional da área de saúde possa auxiliar os usuários do aplicativo via chat, chamada de voz ou vídeo.
+o	o sistema deve sempre ao abrir o aplicativo mostrar uma frase positiva diferente a cada vez acessarmos. 
+o	Deve também poder ter a opção de relatar o sentimento do usuário no perfil com sigilo total. 
+o	Tambem deve possuir um calendário onde possa registrar o seu dia através de uma emoji definindo a sua emoção.
