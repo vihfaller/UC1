@@ -1,12 +1,22 @@
 Nathalia Minosis, Quésia Monteiro, Vitória Faller.
 Definição de Requisitos:
-•	Requisitos Funcionais:
-o	O sistema deve permitir que uma pessoa se cadastre com nome e senha.
-o	O sistema deve permitir que o profissional  da área da saúde se cadastre com nome, senha, sexo, idade e sua especialidade. 
-o	O sistema deve permitir que o usuário descreva a doença/transtorno que possui, idade, sexo.
-o	O usuário registrado pode avaliar o profissional na área da saúde, assim evitando repetir caso não gostou.
-o	Quem pode iniciar o chat sempre é o usuário com transtorno/doença.
-o	Sistema de chat: O sistema deve permitir que o profissional da área de saúde possa auxiliar os usuários do aplicativo via chat, chamada de voz ou vídeo.
-o	o sistema deve sempre ao abrir o aplicativo mostrar uma frase positiva diferente a cada vez acessarmos. 
-o	Deve também poder ter a opção de relatar o sentimento do usuário no perfil com sigilo total. 
-o	Tambem deve possuir um calendário onde possa registrar o seu dia através de uma emoji definindo a sua emoção.
+-	Requisitos Funcionais:
+- O sistema deve permitir que uma pessoa se cadastre com nome e senha.
+-	O sistema deve permitir que o profissional  da área da saúde se cadastre com nome, senha, sexo, idade e sua especialidade. 
+-	O sistema deve permitir que o usuário descreva a doença/transtorno que possui, idade, sexo.
+-	O usuário registrado pode avaliar o profissional na área da saúde, assim evitando repetir caso não gostou.
+-	Quem pode iniciar o chat sempre é o usuário com transtorno/doença.
+-	Sistema de chat: O sistema deve permitir que o profissional da área de saúde possa auxiliar os usuários do aplicativo via chat, chamada de voz ou vídeo.
+-	o sistema deve sempre ao abrir o aplicativo mostrar uma frase positiva diferente a cada vez acessarmos. 
+-	Deve também poder ter a opção de relatar o sentimento do usuário no perfil com sigilo total. 
+-	Tambem deve possuir um calendário onde possa registrar o seu dia através de uma emoji definindo a sua emoção.
+
+
+requisitos não funcionais: 
+- O relato do usuario deve ser enviado no maximo 2 segudnos
+- A capacidade de usuário acessando o aplicativo ao mesmo tempo será de 500 pessoas.
+- O perfil do usuario serão protegidos 
+- Para acessar os registros dos relatos sentimentais do usuario exige uma senha.
+- As telas de cadastro e registro devem ser simples e diretas, campos claros e botoes visiveis e faceis de identificar
+- O sistema pode ser acessado via smarphone, tablets e computadores, permitindo o usuario acessar da forma mais acessivel e conveniente para ele.
+- Em caso de falha, o sistema deve ser capaz de recuperar rapidamente, garantindo que nenhum dado ou rascunho do relato do usuario com trnastorno ou doença seja perdido.
